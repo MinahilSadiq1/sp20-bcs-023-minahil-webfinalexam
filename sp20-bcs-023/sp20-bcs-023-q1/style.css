@@ -1,0 +1,26 @@
+#pagination-controls {
+  display: flex;
+  justify-content: center;
+}
+
+#prev-page, #next-page {
+  padding: 8px 16px;
+  margin: 0 8px;
+  border: none;
+  background-color: blueviolet;
+  color: white;
+  cursor: pointer;
+}
+
+#page-number {
+  margin: 0 8px;
+}
+
+h3 {
+  color: blueviolet;
+  justify-content: center;
+}
+
+
+
+
